@@ -4,16 +4,16 @@ const [, , p2] = personajes;
 
 console.log(p2);
 
-const arr = [
+const useState = [
   "Pablo",
   () => {
     console.log("Hola MUndo");
   },
 ];
 
-console.log(arr);
+console.log(useState);
 // arr[1]();
 
-const [texto, setTexto] = arr;
+const [state, setState] = useState;
 
-setTexto();
+setState();
