@@ -9,4 +9,5 @@ Una serie de ejercicios que refuerza los siguientes conceptos de javascript:
 - Operador condicional ternario
 - Promesas
 - Fetch
+- Axios
 - Async await
